@@ -2,6 +2,8 @@
 
 CTkFloatingNotifications is a custom notification manager widget built using the CustomTkinter library. It provides an easy way to display various types of notifications within a CustomTkinter application, enhancing user experience with visual alerts.
 
+![alt text](https://github.com/maxverwiebe/CTkFloatingNotifications/blob/main/preview.png?raw=true)
+
 ## Features
 
 - **Information Notifications**: Display informational messages to the user.
